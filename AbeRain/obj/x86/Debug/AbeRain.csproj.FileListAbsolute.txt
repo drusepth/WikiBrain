@@ -1,0 +1,5 @@
+C:\Users\drusepth\documents\visual studio 2010\Projects\AbeRain\AbeRain\bin\Debug\AbeRain.exe
+C:\Users\drusepth\documents\visual studio 2010\Projects\AbeRain\AbeRain\bin\Debug\AbeRain.pdb
+C:\Users\drusepth\documents\visual studio 2010\Projects\AbeRain\AbeRain\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\drusepth\documents\visual studio 2010\Projects\AbeRain\AbeRain\obj\x86\Debug\AbeRain.exe
+C:\Users\drusepth\documents\visual studio 2010\Projects\AbeRain\AbeRain\obj\x86\Debug\AbeRain.pdb
